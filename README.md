@@ -9,7 +9,7 @@ This is a lightweight Retrieval-Augmented Generation (RAG) assistant that levera
 -  Vector search over your context documents using FAISS
 -  Lightweight language model for generation (`falcon-rw-1b`, `meta-llama/Llama-3.2-1B`)
 -  RetrievalQA pipeline using LangChain
--  Works well on CPU-based systems (Use falcon-rw-1b)
+-  Works well on CPU-based systems (Use `falcon-rw-1b`)
 
 ---
 
