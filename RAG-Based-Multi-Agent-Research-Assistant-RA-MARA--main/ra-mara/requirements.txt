@@ -1,0 +1,8 @@
+langchain
+faiss-cpu 
+transformers 
+sentence-transformers 
+aiohttp 
+asyncio
+langchain-community
+langchain-huggingface
